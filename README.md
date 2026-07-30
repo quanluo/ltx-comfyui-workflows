@@ -21,14 +21,15 @@ workflows. It will not silently fork official workflow files.
 
 | Workflow | Purpose | Status |
 |---|---|---|
-| Text-to-video starter | First local generation | Awaiting validation |
-| Image-to-video | Animate a reference image | Awaiting validation |
-| Synchronized audio-video | Dialogue and ambience | Awaiting validation |
+| [Single-stage T2V/I2V](workflows/01-t2v-i2v-single-stage/README.md) | Text or image generation | Official workflow indexed |
+| [Two-stage T2V/I2V](workflows/02-t2v-i2v-two-stage/README.md) | Generation with upsampling | Official workflow indexed |
+| [Lipdub two-stage](workflows/03-lipdub-two-stage/README.md) | Rephrase or dub a source video | Official workflow indexed |
 | Keyframe interpolation | Controlled transitions | Awaiting validation |
 | Low-VRAM generation | Constrained hardware | Awaiting validation |
 
-See [`workflows/README.md`](workflows/README.md) for the required directory and
-manifest format.
+The entries link to immutable upstream workflow files at reviewed commit
+`3b9c5cd`. LTX.dev does not redistribute or claim authorship of the official
+JSON. See [`workflows/README.md`](workflows/README.md) for the submission format.
 
 ## Safety and quality
 
