@@ -11,6 +11,15 @@ models.
 [Official ComfyUI integration](https://github.com/Lightricks/ComfyUI-LTXVideo) ·
 [Official LTX-2 source](https://github.com/Lightricks/LTX-2)
 
+## ComfyUI learning path
+
+1. Read the independent
+   [LTX-2.3 ComfyUI tutorial](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comfyui/ltx-comfyui-tutorial.md).
+2. Open the [canonical tutorial on LTX.dev](https://ltx.dev/ltx-comfyui-tutorial).
+3. Choose a versioned workflow from the catalog below.
+4. Return to the [LTX.dev ecosystem hub](https://github.com/quanluo/ltx-dev-ecosystem)
+   for examples, prompts, and model guides.
+
 ## Upstream-first policy
 
 Canonical workflows belong in the official integration whenever possible. This
