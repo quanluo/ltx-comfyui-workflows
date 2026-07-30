@@ -9,6 +9,8 @@ hosted multi-model generation, documentation, examples, and prompt recipes.
 
 [Use LTX.dev Studio](https://ltx.dev/studio/text-to-video) ·
 [Workflow library guide](https://github.com/quanluo/ltx-video-docs/blob/main/docs/workflows/ltx-workflow-library.md) ·
+[Local generation guide](https://github.com/quanluo/ltx-video-docs/blob/main/docs/guides/local-ai-video-generation.md) ·
+[Developer guide](https://github.com/quanluo/ltx-video-docs/blob/main/docs/developers/ltx-developer-guide.md) ·
 [Official ComfyUI integration](https://github.com/Lightricks/ComfyUI-LTXVideo) ·
 [Examples](https://github.com/quanluo/ltx-video-examples) ·
 [Prompts](https://github.com/quanluo/ltx-video-prompts)
@@ -53,4 +55,3 @@ from community observations.
 
 Original index content is available under the [MIT License](LICENSE). Each
 workflow and preview retains its documented provenance and license.
-
