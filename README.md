@@ -1,8 +1,7 @@
 # LTX ComfyUI Workflow Index
 
-> **Independent platform notice:** Maintained by
-> [LTX.dev](https://ltx.dev), an independent multi-model AI video platform.
-> Not affiliated with or endorsed by Lightricks.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video platform.
 
 A versioned index for ComfyUI workflows using LTX video models, connected to
 hosted multi-model generation, documentation, examples, and prompt recipes.
